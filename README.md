@@ -5,7 +5,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/npm/v/@owowagency/bootstrap-vue">
-    <img src="https://github.com/owowagency/bootstrap-vue/actions/workflows/test.yml/badge.svg">
+    <img src="https://github.com/nhutphan/bootstrap-vue/actions/workflows/test.yml/badge.svg">
 </p>
 
 <p align="center">
@@ -69,10 +69,10 @@ Installing this package can be done by using `npm` or `yarn`.
 
 ```bash
 # npm
-npm install @owowagency/bootstrap-vue
+npm install @nhutphan/bootstrap-vue
 
 # yarn
-yarn add @owowagency/bootstrap-vue
+yarn add @nhutphan/bootstrap-vue
 ```
 
 This package also requires [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/download/#package-managers) for its styling and Javascript.
@@ -97,7 +97,7 @@ Here is a simple example on how to use a component in your Vue application:
 </template>
 
 <script setup>
-import {Button} from '@owowagency/bootstrap-vue';
+import {Button} from '@nhutphan/bootstrap-vue';
 </script>
 ```
 

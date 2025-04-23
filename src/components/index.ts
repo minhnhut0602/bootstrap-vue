@@ -27,6 +27,7 @@ export {default as FormImage} from './FormImage';
 export {default as FormPills} from './FormPills';
 export {default as FormSelect} from './FormSelect';
 export {default as InputGroup} from './InputGroup';
+export {default as BLink} from './Link';
 export {default as ListGroup} from './ListGroup';
 export {default as ListGroupItem} from './ListGroupItem';
 export {default as Modal} from './Modal';
